@@ -59,7 +59,18 @@ img {
   margin-bottom: 40px;
   text-align: center;
   letter-spacing: .05em;
-  color: #333;
+  color: rgb(250, 250, 250);
+}
+
+
+.title2 {
+  font-size: 34px;
+  font-weight: bold;
+  line-height: 1;
+  margin-bottom: 40px;
+  text-align: center;
+  letter-spacing: .05em;
+  color: rgb(104, 182, 228);
 }
 
 .lead {
@@ -96,7 +107,7 @@ img {
 }
 
 .header-logo a {
-  color: #333;
+  color: rgb(250, 250, 250);
 }
 
 .gnav-list {
@@ -117,7 +128,7 @@ img {
   padding: 5px 0;
   transition: .3s;
   letter-spacing: .05em;
-  color: #333;
+  color: rgb(250, 250, 250);
 }
 .gnav-item a:after {
   position: absolute;
